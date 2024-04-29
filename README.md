@@ -2,8 +2,10 @@
 
 This is a Java project with SerenityBDD - Screenplay - Cucumber for Flutter app automation
 
-- Install appium flutter driver: ```appium driver install --source=npm appium-flutter-driver ```
-- Install appium flutter driver (local instalation): ```appium driver install --source local /path/to/appium-flutter-driver/driver ```
+- Install appium flutter driver:
+  ```appium driver install --source=npm appium-flutter-driver ```
+- Install appium flutter driver (local instalation):
+  ```appium driver install --source local /path/to/appium-flutter-driver/driver ```
 
 ### Make sure the appium server starts as follows:
 
@@ -23,6 +25,6 @@ Flutter app for automation: https://github.com/Chrxs14/flutter-automation-app
 
 ### Guide repositories for this project
 
-Author - jdmesalosada: https://github.com/jdmesalosada/serenitybdd-appium-poc/tree/master
-Author - appium comunity: https://github.com/appium/appium-flutter-driver
-Author - camillomurcia: https://github.com/camillomurcia/automation-flutter-appium-java/tree/master
+Author - jdmesalosada: https://github.com/jdmesalosada/serenitybdd-appium-poc/tree/master  
+Author - appium comunity: https://github.com/appium/appium-flutter-driver  
+Author - camillomurcia: https://github.com/camillomurcia/automation-flutter-appium-java/tree/master  
