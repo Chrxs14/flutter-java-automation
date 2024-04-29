@@ -1,0 +1,10 @@
+serenity.project.name = Pruebas Automatizacion con Flutter Driver
+webdriver.driver=appium
+appium.newCommandTimeout=1000
+appium.automationName=Flutter
+appium.platformVersion=14.0
+appium.platformName=Android
+appium.hub=http://0.0.0.1:4723/
+appium.app= "copy de apk file path here"
+appium.appPackage=com.example.flutter_automation_app
+appium.appActivity=com.example.flutter_automation_app.MainActivity
