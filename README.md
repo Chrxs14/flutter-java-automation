@@ -17,3 +17,6 @@ This is a Java project with SerenityBDD - Screenplay - Cucumber for Flutter app 
 
 ```mvn clean verify```
 
+## Flutter App Repository
+
+Flutter app for automation: https://github.com/Chrxs14/flutter-automation-app
