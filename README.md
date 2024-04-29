@@ -20,3 +20,9 @@ This is a Java project with SerenityBDD - Screenplay - Cucumber for Flutter app 
 ## Flutter App Repository
 
 Flutter app for automation: https://github.com/Chrxs14/flutter-automation-app
+
+### Guide repositories for this project
+
+Author - jdmesalosada: https://github.com/jdmesalosada/serenitybdd-appium-poc/tree/master
+Author - appium comunity: https://github.com/appium/appium-flutter-driver
+Author - camillomurcia: https://github.com/camillomurcia/automation-flutter-appium-java/tree/master
