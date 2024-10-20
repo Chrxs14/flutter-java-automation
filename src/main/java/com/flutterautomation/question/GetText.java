@@ -11,6 +11,7 @@ import net.serenitybdd.screenplay.Question;
 public class GetText implements Question<String> {
 
     private String elementFlutter;
+    private String any;
 
     public GetText(String elementFlutter) {
         this.elementFlutter = elementFlutter;
